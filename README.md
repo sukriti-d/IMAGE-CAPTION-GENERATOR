@@ -74,9 +74,6 @@ upload_and_caption()
 
 This will prompt you to upload files and generate captions in real time.
 
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
 
 ## 🙌 Acknowledgements
 
